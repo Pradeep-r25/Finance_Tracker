@@ -1,10 +1,6 @@
 # Finance_Tracker
 A Python-based Personal Finance Manager to help users track and analyze their financial transactions. This project simplifies expense and income management by storing transactions in a CSV file and providing features like transaction filtering, summary reports, and graphical analysis.
 
-# Finance Tracker
-
-A simple command-line application to manage your personal finances. This application allows you to track income and expenses over time by recording transactions, viewing them within a date range, and visualizing the financial trends with plots.
-
 ## Features
 - Add new income/expense transactions.
 - View transactions and a summary of income, expense, and net savings within a specified date range.
